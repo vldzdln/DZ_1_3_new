@@ -7,8 +7,10 @@
 * Дизайн-студия имени Слишком Известного Персонажа
 
 Ниже пример кода из нашего приложения:
-
+```html
+<link
 .selector {
   font-family: "Awesome", Arial, sans-serif;
   color: red;
 }
+```
